@@ -1,0 +1,1 @@
+﻿GitHub Connectivity Test from Visual Studio.
