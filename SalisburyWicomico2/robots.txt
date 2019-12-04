@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /meetings/
+
+Sitemap: http://www.sbywico2.org/sitemap.xml
