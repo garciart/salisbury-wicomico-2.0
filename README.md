@@ -8,7 +8,7 @@ Well-paying local jobs. Specifically, well-paying local jobs related to science,
 
 Our schools are hard at work teaching our children STEM, but what happens after graduation? Some of the best STEM jobs are here in Maryland, but not on the Eastern Shore. We are doing something wrong when our best and brightest must look for their future across the bridge and not here at home.
 
-This page is for us to talk about ways to attract and keep those jobs in Wicomico County. For example, we can: 
+This page is for us to talk about ways to attract and keep those jobs in Wicomico County. For example, we can:
 
 - Recognize Local K Through 12 STEM Achievement
 - Recognize Local STEM Supporters
@@ -24,4 +24,4 @@ This page is for us to talk about ways to attract and keep those jobs in Wicomic
 
 **Jobs.**  We have the power grid, we have the fiber optic lines, we have the space, we are less expensive than the West, and we are the "Crossroads of Delmarva." We want these jobs, we NEED these jobs, and we are ready for these jobs. Let's do this!
 
-Find out more at [our website](http://www.sbywico2.org/) or [read our white paper](http://www.sbywico2.org/paper/garcia-salisbury-wicomico-2-180730.pdf) about STEM development on the Eastern Shore. 
+Find out more at [our website](http://www.sbywico2.org/) or [read our white paper](http://www.sbywico2.org/paper/garcia-salisbury-wicomico-2-180730.pdf) about STEM development on the Eastern Shore.
