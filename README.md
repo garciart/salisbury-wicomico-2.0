@@ -2,7 +2,7 @@
 
 <p align="center"><img src="images/sbywico2-lossy.gif" height="512" /></p>
 
-[Salisbury-Wicomico 2.0 is about jobs.](http://www.sbywico2.org/ "Salisbury Wicomico 2.0")
+Salisbury-Wicomico 2.0 is about ***jobs***.
 
 Well-paying local jobs. Specifically, well-paying local jobs related to science, technology, engineering, and mathematics (STEM). STEM jobs are among the best paid jobs in America, and the demand for people is high.  That’s because STEM jobs aren't just for geeks and gamers. STEM jobs include designing Beat headphones, creating movie special effects, and making everything from refrigerators to race cars better and faster.
 
@@ -22,6 +22,6 @@ This page is for us to talk about ways to attract and keep those jobs in Wicomic
 - Research What Other Towns Are Doing to Attract STEM Companies
 - Pick Up the Phone and Pitch!
 
-**Jobs.**  We have the power grid, we have the fiber optic lines, we have the space, we are less expensive than the West, and we are the "Crossroads of Delmarva." We want these jobs, we NEED these jobs, and we are ready for these jobs. Let's do this!
+***Jobs.***  We have the power grid, we have the fiber optic lines, we have the space, we are less expensive than the West, and we are the "Crossroads of Delmarva." We want these jobs, we NEED these jobs, and we are ready for these jobs. Let's do this!
 
-Find out more at [our website](http://www.sbywico2.org/) or [read our white paper](http://www.sbywico2.org/paper/garcia-salisbury-wicomico-2-180730.pdf) about STEM development on the Eastern Shore.
+[Read the white paper](paper/garcia-salisbury-wicomico-2-180730.pdf) about STEM development on the Eastern Shore.
